@@ -1,0 +1,9 @@
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\bin\Debug\compara-numeros.exe.config
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\bin\Debug\compara-numeros.exe
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\bin\Debug\compara-numeros.pdb
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara_numeros.Form1.resources
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara_numeros.Properties.Resources.resources
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara-numeros.csproj.GenerateResource.cache
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara-numeros.exe
+C:\Users\Laboratorio-Info\source\repos\compara-numeros\compara-numeros\obj\Debug\compara-numeros.pdb
